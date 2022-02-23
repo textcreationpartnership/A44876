@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An hue and cry after R. Ls.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44876</idno>
+            <idno type="STC">Wing H3283</idno>
+            <idno type="STC">ESTC R662</idno>
+            <idno type="EEBO-CITATION">13065053</idno>
+            <idno type="OCLC">ocm 13065053</idno>
+            <idno type="VID">97054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An hue and cry after R. Ls.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tom. Tell-Troth,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint (fictitious) on p. 4.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97054:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>AN HUE and CRY After R<g ref="char:punc">▪</g> L<hi rend="sup">s</hi>
+               <g ref="char:punc">▪</g>
+            </head>
+            <p>O Yes! O Yes! O Yes! If there be any Man in Town or Country, or among the <hi>Cits</hi> and <hi>Bumkins,</hi> That can give Notice what is become of a certain <hi>Engliſh</hi> Monſieur, with a certain <hi>French</hi> Name, who hath abſconded him<g ref="char:EOLhyphen"/>ſelfe after all his great Bravado's, and fled from Juſtice, fearing to become a Popiſh Martyr; let him inform one H. B. who ve<g ref="char:EOLhyphen"/>ry much miſſes him, and he ſhall be well rewarded for his pains. But that it may be very well thought he now lies lurking in Maſquerade, we will endeavour to give you ſome certain Marks that you may know him by. He is firſt, a man of Blood, and not the Son of the People, for ſo he tells the Parliament in his Appeal, a little before his laſt adieu to this Word, preparing himſelf for a better, ſo that you might ſup<g ref="char:EOLhyphen"/>poſe he was juſt gone into his Cloſet to Hang himſelf; but this is but one of his Slippery Tricks to make the VVorld believe what he ne<g ref="char:EOLhyphen"/>ver intends: For if you ſhould go into his Cloſer, thinking to find him there, fairly Hanging like a <hi>Jack a Lent,</hi> you will be deceived, but there perhaps you may find Halters enough to do it for him, made out of his own Papers, twiſted together with Sedition, Conſpiracy, and ſome ſeeming Threds of Loyalty, which he picks forth on all oc<g ref="char:EOLhyphen"/>caſions, and reprints as ſufficient Proofs and Remarks of his great Inte<g ref="char:EOLhyphen"/>grity, Innocency and Fidelity to the Proteſtant Religion, after he has abuſed the Profeſſors of it all he can. But, for all his Blood, they ſay, he is the ſpawn of the Devil, begot upon the VVhore of <hi>Babylon,</hi> and though he hides his Monſtrous ſhape in ſeveral fine Dreſſes, he may
+<pb n="2" facs="tcp:97054:2"/>
+               <!-- PDF PAGE 5 -->
+be known by his ſtinking Breath and Cloven Foot. He has ſeveral diſ<g ref="char:EOLhyphen"/>guiſes and ſhapes into which he puts himſelf, a meer <hi>Proteus</hi> to elude the People, a jugling State Hocus Pocus, an <hi>Omne quare,</hi> a Chamelion that can live on the Air of Loyalty, and not feed on the delicious bit of a Thouſand pounds when proffered him. He is a ſtrange Beaſt and Monſter, That has been as troubleſome to <hi>London,</hi> as ever <hi>Sphinx</hi> was to <hi>Thebes,</hi> and there wants an <hi>Oedipus</hi> to unriddle him. You muſt not believe his fine VVords, Papers and Books, for he can juggle you out of your ſenſes, and make you believe 'tis Day when 'tis Night. He is a great Orator, and writes in a brief <hi>Laconique</hi> Stile, he is excellent at ſimi<g ref="char:EOLhyphen"/>lies, and knows all the Tropes and Figures of Rhetorick. He is a great Scho'ar, being taught by his Father, and is ſo uſed to VVriting and Scribling, that he can make a Book in his ſleep: But he has writ of ſo many various ſubjects, that 'twill be hard to know him by his Pen, for he is not the ſame, not writes the ſame things, nor wears the ſame face in 80, he did in 50 and 51. He ſometimes puts on the ſhape of an Angel of Loyalty, and the very <hi>Genius</hi> it ſelf of the Church of <hi>England:</hi> and will tell you on his Salvation That he never was at Maſs ſince 61, though there are ſome that will ſwear the con<g ref="char:EOLhyphen"/>trary. But if you doubt of him, Tell him he is a Papiſt in Maſquerade, or at leaſt Popiſhly inclined, and he will be very angry, and go neer to ſpit in your face; if you ſuſpect him, be ſure you look in his month, for he hath a Venomous Tongue, and his Chaps are all black and foul, within his Breath ſtinks horribly, and he hath ſore biting Fangs; he uſually carries about him a Cat of Nine Tails, wherewith he claws off all thoſe that ſeek to diſcover him: He has alſo moſt commonly his chief Inſtrument of Sedition in his hand, his Pen, which now upon this Flight is perhaps put juſt behind his Ear, or elſe you'l find it in his Pocket, till he has another fit Opportunity to make uſe of it; with that Inſtrument he has performed more Deeds of Chivalry than ever did the Invincible <hi>Don Quixot,</hi> and rather than he will want work, he will fight with his own ſhadow, and aſſault Wind-mills of his own Crea<g ref="char:EOLhyphen"/>ting, you may make ſome Diſcovery of him by his good qualities. He is a two Names together by the Ears, he can make the Right hand beat the Left, and the Left the Right; he can do many other Tricks of Legerdemain, and cunningly caſt a Miſt before your Eyes, and when he Jeers and Laughs you to Scorn, will make you think that he is very Civil to you, Courteous and Kind. He is alſo a very good Painter, he can draw his Enemies beyond the Life, he knows and hits the very motions of their Noſes and Mouths, tells you all their natu<g ref="char:EOLhyphen"/>ral Defects, and ſets them forth ſo plainly, that you may know them when you meet 'em, though you never ſaw 'em before. He has ma<g ref="char:EOLhyphen"/>ny bold ſtrokes, for he can draw Landskips of States, Kingdoms, Re<g ref="char:EOLhyphen"/>ligions, Tranſactions, and the whole Hiſtory of our late times in Skel<g ref="char:EOLhyphen"/>dry, and make them ſpeak too.</p>
+            <p>
+               <pb n="3" facs="tcp:97054:2"/>
+               <!-- PDF PAGE 5 -->
+He is alſo a noted Fidler, for he is always playing on the Strings of the State, which he ſcrews up to a great height, and would ſtretch be<g ref="char:EOLhyphen"/>y<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the <hi>G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t;</hi> he is the Pied-Piper of <hi>London</hi> who would fain have all the Knaves and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ools to Dance after him, that he might lead them by the Noſe to think he makes Loyal Harmony; He has the Voice of <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>, which deceives many an honeſt man, and makes him leave the Ship of ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fety, and fall headlong and blindfold into the Sea of Dan<g ref="char:EOLhyphen"/>ger and Calamity and Jeſuitical Conſpiracy. He has alſo <hi>Circean</hi> Arts, and can turn any Body into what ſhape he pleaſes, the whole Body of Presbyterians into Mon<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers, the Plot into Shams, and Ridi<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, the Loyal to a Phanatick, the Jeſuite to a Saint, <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etitions to Re<g ref="char:EOLhyphen"/>bellion, Liberty to Tyranny, and all Writings againſt him into Libels. It is very <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>e you will find him with his Appeal in his Pocket, and a <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> his Mouth; for he is ſeldom without one; he Chews it like T<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cco you muſt not believe what he ſays, for he is an apt Schollar, and has <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earn'd faſt and Looſe of the Jeſuites: He has very pierce<g ref="char:EOLhyphen"/>ing Eyes and can ſee through all the Diſguiſes of the Presbyterians, <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> out their Sham-Pots and Phanatical Deſigns: they are very <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ticks, for the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation to ſee by, which ſhew things that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were, and make of a Mole-hill a Mountain. He makes uſe of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Jeſuitical Spectacles, which he always carries about him that <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es him ſee Wood for Trees, and all that will not be inclined to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opery, to be dangerous, ſeditious and conſpiring Perſons: They al<g ref="char:EOLhyphen"/>ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>preſent many Loyal Perſons to be Commonwealths-men, and who<g ref="char:EOLhyphen"/>ever looks through them will think they ſee three Kingdoms Convert<g ref="char:EOLhyphen"/>ed into a Balloting-Box, you may know him by his talking with him<g ref="char:EOLhyphen"/>ſelf, he is moſt Excellent at Dialoguing, a right Fencer at <hi>Pro</hi> and <hi>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on;</hi> He puts Caſes moſt dexterouſly, and moſt commonly the wrong ſide out: You I find him among, the Factious and as buſye as the beſt, he muſt be employed ſome way or other. Hold him faſt if you take him, for he is apt to elude Honeſty and good-meaning, nothing can bind this <hi>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ote<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> but the Parliament, their VViſdom only can find out his Diſguiſed Shapes, take them off and ſhew him in his true Figure: 'Tis their Juſtice he fears, or elſe he would never ſeek to evade it, and for all his Litteral Juſtifications, this ſlip out of the way, argues his Guilt, and that he cannot ſtand the Teſt.</p>
+            <q>
+               <l>The Crack-fart of the Nation's fled,</l>
+               <l>Who had ſo many Magotts bread;</l>
+               <l>He ſaw it was not ſafe to ſtay,</l>
+               <l>But wiſer far to run away.</l>
+               <l>A long time he had made a Noiſe,</l>
+               <l>Roring aloud with Thundring Voice,</l>
+               <l>Making a fume and ſtinking ſcent,</l>
+               <l>Not Dreaming of a Parliament,</l>
+               <l>
+                  <pb n="4" facs="tcp:97054:3"/>
+                  <!-- PDF PAGE 6 -->
+Before that he away did ſteal,</l>
+               <l>He wiſely puts forth his Appeal;</l>
+               <l>And like a very Crafty Elf,</l>
+               <l>Would have you think he'd hang'd himſelf:</l>
+               <l>But that his turn will never ſerve,</l>
+               <l>He may have what he does deſerve:</l>
+               <l>For moſt that knew him ſtill did think,</l>
+               <l>He would at laſt go out in ſtink,</l>
+               <l>Tho' he had got a curious Art,</l>
+               <l>And could with skill perfume a Fart:</l>
+               <l>Which he would hold unto your Noſe,</l>
+               <l>And make you think it was a Roſe.</l>
+               <l>Theſe to <hi>H. B.</hi> the Crack-fart ſold,</l>
+               <l>Bartering with him Farts for Gold,</l>
+               <l>Of which a gain, for 'twas his Trade,</l>
+               <l>He profit and good Money made.</l>
+               <l>But Crack-fart now has left his Sation,</l>
+               <l>And can no more perfume the Nation.</l>
+               <l>For it ſeems the Parliament,</l>
+               <l>Does no ways like or love the Scent.</l>
+               <l>And all his Cracks diſguis'd by Arts,</l>
+               <l>Prove ſtinking, tho' perfumed Farts.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Tom. Tell-Troth.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
